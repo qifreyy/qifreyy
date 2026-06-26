@@ -1,5 +1,10 @@
 <div align="center">
-  wip
+<img width="500" height="300" src="https://file.garden/aiCgV24PQBWh7nsK/Untitled256_20260626211850.png">
+</p>
+
+ heavy wip
+  
+  
 <!--
 **solivan-brugmansia/solivan-brugmansia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
