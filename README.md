@@ -2,7 +2,7 @@
 <img width="500" height="300" src="https://file.garden/aiCgV24PQBWh7nsK/Untitled256_20260626211850.png">
 </p>
 
- [info](https://fluffle.cc/qiifrey)
+ [fluffle.cc](https://fluffle.cc/qiifrey)
   
   
 <!--
