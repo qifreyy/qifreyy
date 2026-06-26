@@ -2,7 +2,7 @@
 <img width="500" height="300" src="https://file.garden/aiCgV24PQBWh7nsK/Untitled256_20260626211850.png">
 </p>
 
- heavy wip
+ [info](https://fluffle.cc/qiifrey)
   
   
 <!--
